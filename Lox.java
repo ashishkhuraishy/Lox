@@ -23,7 +23,7 @@ public class Lox {
         }else{
             runPrompt();
         }
-    }
+    } 
 
 
     private static void runFile(String path) throws IOException {
